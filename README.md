@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sgiridharan06" alt="sgiridharan06" /></a> </p>
 
-- 🌱 I’m currently learning **Python,Sql,Django,Flask**
+- 🌱 I’m currently learning **Python,Sql,Uipath**
 
 - 📫 How to reach me **lettertogiri06@gmail.com**
 
